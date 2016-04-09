@@ -1,0 +1,12 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+initializing a directory makes it to use git . to use git version control
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+repository is containing all of the files and folders .
+the working directory is the directory we use it .
+but stadign area is a temporary area to add file or files that you want to 
+commit once . 
+it gives you flexibility on choosing which files to commit each time not all files
