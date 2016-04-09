@@ -1,0 +1,42 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+
+well that was a huge code and if this command did't help me , maybe it would take days 
+for me to find error .
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+
+at the end you can go back to your first code and compare it with final version and see
+what mistakes you have made and learn some architecture lesson from your code.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+pros of manual commits is that you save it in meaningfull times .
+cons of manual commits is that some times you forget to commit or commit in wrong places
+
+pros of auto commit is that it saves for you if you forget 
+cons of auto commit is that it usually don't save in meaningfull places for example mayble
+it will commit it a middle of your codding .
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+it has many reasons . for example most of the users in google Docs or similar services 
+work with simple files not codes . and the second reason why they don't commit multiple 
+files is that it may take much processing time to do them in millions of files
+on the other hand Git is mainly build for code Version controling and it should have this
+feathers . 
+
+How might using version control make you more confident to make changes that could break something?
+
+it really helps . for example when i finished writing my code i may feel like i want to 
+make the architecture some how better and different but i'm not sure . if there werent 
+version control i may change small part of code and if it breaks i must fix them and
+making it go to previous version manually but with version control i can freely
+change the whole architecture .
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+i want to use it one of my python apps that uses woocommerce api to sync product stocks
