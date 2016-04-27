@@ -10,3 +10,10 @@ the working directory is the directory we use it .
 but stadign area is a temporary area to add file or files that you want to 
 commit once . 
 it gives you flexibility on choosing which files to commit each time not all files
+
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+staging area give you flexibility to control witch group of files you should commit
+so you decide how many files is a logical idea to commit . not all .
