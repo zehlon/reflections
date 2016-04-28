@@ -17,3 +17,10 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 staging area give you flexibility to control witch group of files you should commit
 so you decide how many files is a logical idea to commit . not all .
+
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+some times in my code i like to add some feathers to the code that actually i'm not sure i will
+use it in future or not . i guess this is what i want .
