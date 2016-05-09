@@ -24,3 +24,9 @@ What are some situations when branches would be helpful in keeping your history 
 
 some times in my code i like to add some feathers to the code that actually i'm not sure i will
 use it in future or not . i guess this is what i want .
+
+What is the result of merging two branches together? 
+Why do we represent it in the diagram the way we do?
+
+merging two branches make the changes in two branch final with adding their content togheter
+we use diagrams to to seperate them from togheter 
