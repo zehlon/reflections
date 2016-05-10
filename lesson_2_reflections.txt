@@ -30,3 +30,12 @@ Why do we represent it in the diagram the way we do?
 
 merging two branches make the changes in two branch final with adding their content togheter
 we use diagrams to to seperate them from togheter 
+
+
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+mergin manually may be good in some times if auto merge doesn't work or the project is so complex
+but it needs more work to do . 
+on the other hand automatic merge is simple and it notifies you about common conflicts .
