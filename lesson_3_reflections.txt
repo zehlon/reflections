@@ -26,7 +26,8 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    this copies will stay in origin/master branch and when you are out of internet you can edit your master branch and 
+    at the same time you can compare your version with last state of remote branch . 
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
