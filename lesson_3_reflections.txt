@@ -39,4 +39,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    making changes in a seperate branch will give you ability to pull request it on github so you can ask other colabraters
+    mind about it and if it was acceptable you can merge it to master . and it is beneficial , beacuase you can roll back
+    changes any time you want. 
